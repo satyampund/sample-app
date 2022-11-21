@@ -12,7 +12,7 @@ function App() {
         <Route path='/contact/:title/:price' element={<Contact />} />
       </Routes>
     </BrowserRouter>
-  );
+  )
 }
 
 export default App;
